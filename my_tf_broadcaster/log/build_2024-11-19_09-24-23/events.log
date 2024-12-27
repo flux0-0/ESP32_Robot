@@ -1,0 +1,228 @@
+[0.000000] (-) TimerEvent: {}
+[0.000844] (my_tf_broadcaster) JobQueued: {'identifier': 'my_tf_broadcaster', 'dependencies': OrderedDict()}
+[0.000910] (my_tf_broadcaster) JobStarted: {'identifier': 'my_tf_broadcaster'}
+[0.099781] (-) TimerEvent: {}
+[0.200399] (-) TimerEvent: {}
+[0.300843] (-) TimerEvent: {}
+[0.401312] (-) TimerEvent: {}
+[0.501796] (-) TimerEvent: {}
+[0.602175] (-) TimerEvent: {}
+[0.702537] (-) TimerEvent: {}
+[0.802878] (-) TimerEvent: {}
+[0.903242] (-) TimerEvent: {}
+[1.003663] (-) TimerEvent: {}
+[1.104107] (-) TimerEvent: {}
+[1.204503] (-) TimerEvent: {}
+[1.304833] (-) TimerEvent: {}
+[1.405170] (-) TimerEvent: {}
+[1.505694] (-) TimerEvent: {}
+[1.606293] (-) TimerEvent: {}
+[1.706815] (-) TimerEvent: {}
+[1.807281] (-) TimerEvent: {}
+[1.907974] (-) TimerEvent: {}
+[2.008574] (-) TimerEvent: {}
+[2.109029] (-) TimerEvent: {}
+[2.209446] (-) TimerEvent: {}
+[2.309862] (-) TimerEvent: {}
+[2.410417] (-) TimerEvent: {}
+[2.511109] (-) TimerEvent: {}
+[2.611915] (-) TimerEvent: {}
+[2.712447] (-) TimerEvent: {}
+[2.812808] (-) TimerEvent: {}
+[2.913302] (-) TimerEvent: {}
+[3.013762] (-) TimerEvent: {}
+[3.114579] (-) TimerEvent: {}
+[3.215221] (-) TimerEvent: {}
+[3.315984] (-) TimerEvent: {}
+[3.416561] (-) TimerEvent: {}
+[3.517070] (-) TimerEvent: {}
+[3.617704] (-) TimerEvent: {}
+[3.718617] (-) TimerEvent: {}
+[3.819207] (-) TimerEvent: {}
+[3.919577] (-) TimerEvent: {}
+[4.020274] (-) TimerEvent: {}
+[4.120871] (-) TimerEvent: {}
+[4.221313] (-) TimerEvent: {}
+[4.321720] (-) TimerEvent: {}
+[4.422140] (-) TimerEvent: {}
+[4.522886] (-) TimerEvent: {}
+[4.623425] (-) TimerEvent: {}
+[4.723928] (-) TimerEvent: {}
+[4.824531] (-) TimerEvent: {}
+[4.924951] (-) TimerEvent: {}
+[5.025333] (-) TimerEvent: {}
+[5.125708] (-) TimerEvent: {}
+[5.226063] (-) TimerEvent: {}
+[5.326474] (-) TimerEvent: {}
+[5.434191] (-) TimerEvent: {}
+[5.534618] (-) TimerEvent: {}
+[5.635091] (-) TimerEvent: {}
+[5.735568] (-) TimerEvent: {}
+[5.836384] (-) TimerEvent: {}
+[5.936895] (-) TimerEvent: {}
+[6.037300] (-) TimerEvent: {}
+[6.137702] (-) TimerEvent: {}
+[6.238093] (-) TimerEvent: {}
+[6.338458] (-) TimerEvent: {}
+[6.438823] (-) TimerEvent: {}
+[6.539270] (-) TimerEvent: {}
+[6.639699] (-) TimerEvent: {}
+[6.740182] (-) TimerEvent: {}
+[6.840579] (-) TimerEvent: {}
+[6.941169] (-) TimerEvent: {}
+[7.041589] (-) TimerEvent: {}
+[7.142094] (-) TimerEvent: {}
+[7.242782] (-) TimerEvent: {}
+[7.343401] (-) TimerEvent: {}
+[7.443841] (-) TimerEvent: {}
+[7.544219] (-) TimerEvent: {}
+[7.644802] (-) TimerEvent: {}
+[7.745385] (-) TimerEvent: {}
+[7.845762] (-) TimerEvent: {}
+[7.946053] (-) TimerEvent: {}
+[8.046859] (-) TimerEvent: {}
+[8.147463] (-) TimerEvent: {}
+[8.247807] (-) TimerEvent: {}
+[8.348135] (-) TimerEvent: {}
+[8.448523] (-) TimerEvent: {}
+[8.549048] (-) TimerEvent: {}
+[8.649652] (-) TimerEvent: {}
+[8.750150] (-) TimerEvent: {}
+[8.850669] (-) TimerEvent: {}
+[8.951445] (-) TimerEvent: {}
+[9.052066] (-) TimerEvent: {}
+[9.152446] (-) TimerEvent: {}
+[9.253078] (-) TimerEvent: {}
+[9.353567] (-) TimerEvent: {}
+[9.454042] (-) TimerEvent: {}
+[9.554501] (-) TimerEvent: {}
+[9.654899] (-) TimerEvent: {}
+[9.755235] (-) TimerEvent: {}
+[9.855621] (-) TimerEvent: {}
+[9.956077] (-) TimerEvent: {}
+[10.056495] (-) TimerEvent: {}
+[10.156869] (-) TimerEvent: {}
+[10.257320] (-) TimerEvent: {}
+[10.357854] (-) TimerEvent: {}
+[10.458393] (-) TimerEvent: {}
+[10.558824] (-) TimerEvent: {}
+[10.659254] (-) TimerEvent: {}
+[10.759621] (-) TimerEvent: {}
+[10.860134] (-) TimerEvent: {}
+[10.960586] (-) TimerEvent: {}
+[11.061319] (-) TimerEvent: {}
+[11.161935] (-) TimerEvent: {}
+[11.262370] (-) TimerEvent: {}
+[11.362810] (-) TimerEvent: {}
+[11.463230] (-) TimerEvent: {}
+[11.563671] (-) TimerEvent: {}
+[11.664224] (-) TimerEvent: {}
+[11.764699] (-) TimerEvent: {}
+[11.865240] (-) TimerEvent: {}
+[11.965712] (-) TimerEvent: {}
+[12.066160] (-) TimerEvent: {}
+[12.166569] (-) TimerEvent: {}
+[12.267034] (-) TimerEvent: {}
+[12.367485] (-) TimerEvent: {}
+[12.468133] (-) TimerEvent: {}
+[12.568474] (-) TimerEvent: {}
+[12.668888] (-) TimerEvent: {}
+[12.769315] (-) TimerEvent: {}
+[12.869725] (-) TimerEvent: {}
+[12.970123] (-) TimerEvent: {}
+[13.070571] (-) TimerEvent: {}
+[13.171054] (-) TimerEvent: {}
+[13.271499] (-) TimerEvent: {}
+[13.371958] (-) TimerEvent: {}
+[13.472352] (-) TimerEvent: {}
+[13.572720] (-) TimerEvent: {}
+[13.673167] (-) TimerEvent: {}
+[13.773600] (-) TimerEvent: {}
+[13.874030] (-) TimerEvent: {}
+[13.974442] (-) TimerEvent: {}
+[14.074881] (-) TimerEvent: {}
+[14.175337] (-) TimerEvent: {}
+[14.275768] (-) TimerEvent: {}
+[14.376129] (-) TimerEvent: {}
+[14.476537] (-) TimerEvent: {}
+[14.577145] (-) TimerEvent: {}
+[14.677576] (-) TimerEvent: {}
+[14.778027] (-) TimerEvent: {}
+[14.878466] (-) TimerEvent: {}
+[14.978894] (-) TimerEvent: {}
+[15.079300] (-) TimerEvent: {}
+[15.179638] (-) TimerEvent: {}
+[15.280096] (-) TimerEvent: {}
+[15.380501] (-) TimerEvent: {}
+[15.480942] (-) TimerEvent: {}
+[15.581363] (-) TimerEvent: {}
+[15.681811] (-) TimerEvent: {}
+[15.782210] (-) TimerEvent: {}
+[15.882609] (-) TimerEvent: {}
+[15.983026] (-) TimerEvent: {}
+[16.089516] (-) TimerEvent: {}
+[16.189947] (-) TimerEvent: {}
+[16.290357] (-) TimerEvent: {}
+[16.390809] (-) TimerEvent: {}
+[16.491226] (-) TimerEvent: {}
+[16.591640] (-) TimerEvent: {}
+[16.692382] (-) TimerEvent: {}
+[16.793034] (-) TimerEvent: {}
+[16.893466] (-) TimerEvent: {}
+[16.993892] (-) TimerEvent: {}
+[17.094347] (-) TimerEvent: {}
+[17.194776] (-) TimerEvent: {}
+[17.295206] (-) TimerEvent: {}
+[17.395610] (-) TimerEvent: {}
+[17.496033] (-) TimerEvent: {}
+[17.596434] (-) TimerEvent: {}
+[17.696856] (-) TimerEvent: {}
+[17.797288] (-) TimerEvent: {}
+[17.897708] (-) TimerEvent: {}
+[17.998187] (-) TimerEvent: {}
+[18.098638] (-) TimerEvent: {}
+[18.199106] (-) TimerEvent: {}
+[18.299548] (-) TimerEvent: {}
+[18.399946] (-) TimerEvent: {}
+[18.500222] (-) TimerEvent: {}
+[18.600601] (-) TimerEvent: {}
+[18.605376] (my_tf_broadcaster) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', 'build/my_tf_broadcaster', 'build', '--build-base', '/home/bao/my_tf_broadcaster/build/my_tf_broadcaster/build', 'install', '--record', '/home/bao/my_tf_broadcaster/build/my_tf_broadcaster/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/bao/my_tf_broadcaster', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'bao', 'LC_TIME': 'vi_VN', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/bao', 'OLDPWD': '/home/bao', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'vi_VN', 'SYSTEMD_EXEC_PID': '2008', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/bao/my_tf_broadcaster/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'bao', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'bao', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/home/bao/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/bao-Lenovo-Legion-5-15ARH05:@/tmp/.ICE-unix/1984,unix/bao-Lenovo-Legion-5-15ARH05:/tmp/.ICE-unix/1984', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'vi_VN', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/8022d537_8bdc_48bc_9c2a_36fc8075fb2f', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'vi_VN', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.7PR3W2', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.98', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/bao/my_tf_broadcaster/install/my_tf_broadcaster:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'vi_VN', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'vi_VN', 'LC_IDENTIFICATION': 'vi_VN', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/bao/my_tf_broadcaster/build/my_tf_broadcaster', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/bao/my_tf_broadcaster/build/my_tf_broadcaster/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages:/home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'vi_VN', 'LC_PAPER': 'vi_VN', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[18.700785] (-) TimerEvent: {}
+[18.844302] (-) TimerEvent: {}
+[18.944672] (-) TimerEvent: {}
+[18.983447] (my_tf_broadcaster) StdoutLine: {'line': b'running egg_info\n'}
+[19.011240] (my_tf_broadcaster) StdoutLine: {'line': b'writing build/my_tf_broadcaster/my_tf_broadcaster.egg-info/PKG-INFO\n'}
+[19.012485] (my_tf_broadcaster) StdoutLine: {'line': b'writing dependency_links to build/my_tf_broadcaster/my_tf_broadcaster.egg-info/dependency_links.txt\n'}
+[19.012668] (my_tf_broadcaster) StdoutLine: {'line': b'writing entry points to build/my_tf_broadcaster/my_tf_broadcaster.egg-info/entry_points.txt\n'}
+[19.012828] (my_tf_broadcaster) StdoutLine: {'line': b'writing requirements to build/my_tf_broadcaster/my_tf_broadcaster.egg-info/requires.txt\n'}
+[19.012916] (my_tf_broadcaster) StdoutLine: {'line': b'writing top-level names to build/my_tf_broadcaster/my_tf_broadcaster.egg-info/top_level.txt\n'}
+[19.042273] (my_tf_broadcaster) StdoutLine: {'line': b"reading manifest file 'build/my_tf_broadcaster/my_tf_broadcaster.egg-info/SOURCES.txt'\n"}
+[19.044752] (-) TimerEvent: {}
+[19.077663] (my_tf_broadcaster) StdoutLine: {'line': b"writing manifest file 'build/my_tf_broadcaster/my_tf_broadcaster.egg-info/SOURCES.txt'\n"}
+[19.135450] (my_tf_broadcaster) StdoutLine: {'line': b'running build\n'}
+[19.135766] (my_tf_broadcaster) StdoutLine: {'line': b'running build_py\n'}
+[19.144879] (-) TimerEvent: {}
+[19.176428] (my_tf_broadcaster) StdoutLine: {'line': b'running install\n'}
+[19.189128] (my_tf_broadcaster) StdoutLine: {'line': b'running install_lib\n'}
+[19.227070] (my_tf_broadcaster) StdoutLine: {'line': b'running install_data\n'}
+[19.245032] (-) TimerEvent: {}
+[19.296183] (my_tf_broadcaster) StdoutLine: {'line': b'running install_egg_info\n'}
+[19.319014] (my_tf_broadcaster) StdoutLine: {'line': b"removing '/home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages/my_tf_broadcaster-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[19.319160] (my_tf_broadcaster) StdoutLine: {'line': b'Copying build/my_tf_broadcaster/my_tf_broadcaster.egg-info to /home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages/my_tf_broadcaster-0.0.0-py3.10.egg-info\n'}
+[19.345178] (-) TimerEvent: {}
+[19.371082] (my_tf_broadcaster) StdoutLine: {'line': b'running install_scripts\n'}
+[19.445510] (-) TimerEvent: {}
+[19.457723] (my_tf_broadcaster) StdoutLine: {'line': b'Installing odom_to_tf script to /home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/my_tf_broadcaster\n'}
+[19.458120] (my_tf_broadcaster) StdoutLine: {'line': b"writing list of installed files to '/home/bao/my_tf_broadcaster/build/my_tf_broadcaster/install.log'\n"}
+[19.510614] (my_tf_broadcaster) CommandEnded: {'returncode': 0}
+[19.545684] (-) TimerEvent: {}
+[19.646273] (-) TimerEvent: {}
+[19.746767] (-) TimerEvent: {}
+[19.847369] (-) TimerEvent: {}
+[19.948007] (-) TimerEvent: {}
+[20.048574] (-) TimerEvent: {}
+[20.149494] (-) TimerEvent: {}
+[20.250132] (-) TimerEvent: {}
+[20.350577] (-) TimerEvent: {}
+[20.379418] (my_tf_broadcaster) JobEnded: {'identifier': 'my_tf_broadcaster', 'rc': 0}
+[20.380963] (-) EventReactorShutdown: {}

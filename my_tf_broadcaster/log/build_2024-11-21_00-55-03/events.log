@@ -1,0 +1,75 @@
+[0.000000] (-) TimerEvent: {}
+[0.000578] (my_tf_broadcaster) JobQueued: {'identifier': 'my_tf_broadcaster', 'dependencies': OrderedDict()}
+[0.000662] (my_tf_broadcaster) JobStarted: {'identifier': 'my_tf_broadcaster'}
+[0.099672] (-) TimerEvent: {}
+[0.200165] (-) TimerEvent: {}
+[0.300578] (-) TimerEvent: {}
+[0.400985] (-) TimerEvent: {}
+[0.501338] (-) TimerEvent: {}
+[0.601595] (-) TimerEvent: {}
+[0.701857] (-) TimerEvent: {}
+[0.802668] (-) TimerEvent: {}
+[0.903212] (-) TimerEvent: {}
+[1.003642] (-) TimerEvent: {}
+[1.104077] (-) TimerEvent: {}
+[1.204482] (-) TimerEvent: {}
+[1.304873] (-) TimerEvent: {}
+[1.405282] (-) TimerEvent: {}
+[1.505808] (-) TimerEvent: {}
+[1.606180] (-) TimerEvent: {}
+[1.706586] (-) TimerEvent: {}
+[1.806988] (-) TimerEvent: {}
+[1.907351] (-) TimerEvent: {}
+[2.007726] (-) TimerEvent: {}
+[2.108119] (-) TimerEvent: {}
+[2.208520] (-) TimerEvent: {}
+[2.308964] (-) TimerEvent: {}
+[2.409385] (-) TimerEvent: {}
+[2.509741] (-) TimerEvent: {}
+[2.610215] (-) TimerEvent: {}
+[2.710831] (-) TimerEvent: {}
+[2.811235] (-) TimerEvent: {}
+[2.911640] (-) TimerEvent: {}
+[3.012064] (-) TimerEvent: {}
+[3.112516] (-) TimerEvent: {}
+[3.212930] (-) TimerEvent: {}
+[3.313378] (-) TimerEvent: {}
+[3.413753] (-) TimerEvent: {}
+[3.514176] (-) TimerEvent: {}
+[3.614833] (-) TimerEvent: {}
+[3.715377] (-) TimerEvent: {}
+[3.815746] (-) TimerEvent: {}
+[3.859009] (my_tf_broadcaster) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', 'build/my_tf_broadcaster', 'build', '--build-base', '/home/bao/my_tf_broadcaster/build/my_tf_broadcaster/build', 'install', '--record', '/home/bao/my_tf_broadcaster/build/my_tf_broadcaster/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/bao/my_tf_broadcaster', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'bao', 'LC_TIME': 'vi_VN', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/bao', 'OLDPWD': '/home/bao', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'vi_VN', 'SYSTEMD_EXEC_PID': '1975', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/bao/my_tf_broadcaster/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'bao', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'bao', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/home/bao/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/bao-Lenovo-Legion-5-15ARH05:@/tmp/.ICE-unix/1946,unix/bao-Lenovo-Legion-5-15ARH05:/tmp/.ICE-unix/1946', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'vi_VN', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/a262b2d7_5af3_4d86_9a7e_d13cc1038bf9', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'vi_VN', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.JA7FX2', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.98', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/bao/my_tf_broadcaster/install/my_tf_broadcaster:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'vi_VN', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'vi_VN', 'LC_IDENTIFICATION': 'vi_VN', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/bao/my_tf_broadcaster/build/my_tf_broadcaster', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/bao/my_tf_broadcaster/build/my_tf_broadcaster/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages:/home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'vi_VN', 'LC_PAPER': 'vi_VN', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[3.941037] (-) TimerEvent: {}
+[4.041371] (-) TimerEvent: {}
+[4.141756] (-) TimerEvent: {}
+[4.219633] (my_tf_broadcaster) StdoutLine: {'line': b'running egg_info\n'}
+[4.241880] (-) TimerEvent: {}
+[4.245670] (my_tf_broadcaster) StdoutLine: {'line': b'writing build/my_tf_broadcaster/my_tf_broadcaster.egg-info/PKG-INFO\n'}
+[4.256597] (my_tf_broadcaster) StdoutLine: {'line': b'writing dependency_links to build/my_tf_broadcaster/my_tf_broadcaster.egg-info/dependency_links.txt\n'}
+[4.257000] (my_tf_broadcaster) StdoutLine: {'line': b'writing entry points to build/my_tf_broadcaster/my_tf_broadcaster.egg-info/entry_points.txt\n'}
+[4.257233] (my_tf_broadcaster) StdoutLine: {'line': b'writing requirements to build/my_tf_broadcaster/my_tf_broadcaster.egg-info/requires.txt\n'}
+[4.257365] (my_tf_broadcaster) StdoutLine: {'line': b'writing top-level names to build/my_tf_broadcaster/my_tf_broadcaster.egg-info/top_level.txt\n'}
+[4.288146] (my_tf_broadcaster) StdoutLine: {'line': b"reading manifest file 'build/my_tf_broadcaster/my_tf_broadcaster.egg-info/SOURCES.txt'\n"}
+[4.302399] (my_tf_broadcaster) StdoutLine: {'line': b"writing manifest file 'build/my_tf_broadcaster/my_tf_broadcaster.egg-info/SOURCES.txt'\n"}
+[4.302655] (my_tf_broadcaster) StdoutLine: {'line': b'running build\n'}
+[4.302765] (my_tf_broadcaster) StdoutLine: {'line': b'running build_py\n'}
+[4.302900] (my_tf_broadcaster) StdoutLine: {'line': b'copying my_tf_broadcaster/odom_to_tf.py -> /home/bao/my_tf_broadcaster/build/my_tf_broadcaster/build/lib/my_tf_broadcaster\n'}
+[4.303228] (my_tf_broadcaster) StdoutLine: {'line': b'running install\n'}
+[4.307770] (my_tf_broadcaster) StdoutLine: {'line': b'running install_lib\n'}
+[4.323146] (my_tf_broadcaster) StdoutLine: {'line': b'copying /home/bao/my_tf_broadcaster/build/my_tf_broadcaster/build/lib/my_tf_broadcaster/odom_to_tf.py -> /home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages/my_tf_broadcaster\n'}
+[4.323773] (my_tf_broadcaster) StdoutLine: {'line': b'byte-compiling /home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages/my_tf_broadcaster/odom_to_tf.py to odom_to_tf.cpython-310.pyc\n'}
+[4.324285] (my_tf_broadcaster) StdoutLine: {'line': b'running install_data\n'}
+[4.324521] (my_tf_broadcaster) StdoutLine: {'line': b'running install_egg_info\n'}
+[4.341017] (my_tf_broadcaster) StdoutLine: {'line': b"removing '/home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages/my_tf_broadcaster-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[4.341315] (my_tf_broadcaster) StdoutLine: {'line': b'Copying build/my_tf_broadcaster/my_tf_broadcaster.egg-info to /home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages/my_tf_broadcaster-0.0.0-py3.10.egg-info\n'}
+[4.341935] (-) TimerEvent: {}
+[4.356489] (my_tf_broadcaster) StdoutLine: {'line': b'running install_scripts\n'}
+[4.415932] (my_tf_broadcaster) StdoutLine: {'line': b'Installing odom_to_tf script to /home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/my_tf_broadcaster\n'}
+[4.416210] (my_tf_broadcaster) StdoutLine: {'line': b"writing list of installed files to '/home/bao/my_tf_broadcaster/build/my_tf_broadcaster/install.log'\n"}
+[4.442067] (-) TimerEvent: {}
+[4.468363] (my_tf_broadcaster) CommandEnded: {'returncode': 0}
+[4.542219] (-) TimerEvent: {}
+[4.642603] (-) TimerEvent: {}
+[4.678640] (my_tf_broadcaster) JobEnded: {'identifier': 'my_tf_broadcaster', 'rc': 0}
+[4.679663] (-) EventReactorShutdown: {}

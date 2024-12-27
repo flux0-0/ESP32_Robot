@@ -1,0 +1,24 @@
+[2.808s] Invoking command in '/home/bao/my_tf_broadcaster': PYTHONPATH=/home/bao/my_tf_broadcaster/build/my_tf_broadcaster/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/my_tf_broadcaster build --build-base /home/bao/my_tf_broadcaster/build/my_tf_broadcaster/build install --record /home/bao/my_tf_broadcaster/build/my_tf_broadcaster/install.log --single-version-externally-managed install_data
+[3.165s] running egg_info
+[3.189s] writing build/my_tf_broadcaster/my_tf_broadcaster.egg-info/PKG-INFO
+[3.207s] writing dependency_links to build/my_tf_broadcaster/my_tf_broadcaster.egg-info/dependency_links.txt
+[3.207s] writing entry points to build/my_tf_broadcaster/my_tf_broadcaster.egg-info/entry_points.txt
+[3.207s] writing requirements to build/my_tf_broadcaster/my_tf_broadcaster.egg-info/requires.txt
+[3.207s] writing top-level names to build/my_tf_broadcaster/my_tf_broadcaster.egg-info/top_level.txt
+[3.236s] reading manifest file 'build/my_tf_broadcaster/my_tf_broadcaster.egg-info/SOURCES.txt'
+[3.258s] writing manifest file 'build/my_tf_broadcaster/my_tf_broadcaster.egg-info/SOURCES.txt'
+[3.258s] running build
+[3.258s] running build_py
+[3.258s] copying my_tf_broadcaster/odom_to_tf.py -> /home/bao/my_tf_broadcaster/build/my_tf_broadcaster/build/lib/my_tf_broadcaster
+[3.259s] running install
+[3.263s] running install_lib
+[3.278s] copying /home/bao/my_tf_broadcaster/build/my_tf_broadcaster/build/lib/my_tf_broadcaster/odom_to_tf.py -> /home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages/my_tf_broadcaster
+[3.279s] byte-compiling /home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages/my_tf_broadcaster/odom_to_tf.py to odom_to_tf.cpython-310.pyc
+[3.279s] running install_data
+[3.280s] running install_egg_info
+[3.295s] removing '/home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages/my_tf_broadcaster-0.0.0-py3.10.egg-info' (and everything under it)
+[3.295s] Copying build/my_tf_broadcaster/my_tf_broadcaster.egg-info to /home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages/my_tf_broadcaster-0.0.0-py3.10.egg-info
+[3.310s] running install_scripts
+[3.369s] Installing odom_to_tf script to /home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/my_tf_broadcaster
+[3.393s] writing list of installed files to '/home/bao/my_tf_broadcaster/build/my_tf_broadcaster/install.log'
+[3.444s] Invoked command in '/home/bao/my_tf_broadcaster' returned '0': PYTHONPATH=/home/bao/my_tf_broadcaster/build/my_tf_broadcaster/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bao/my_tf_broadcaster/install/my_tf_broadcaster/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/my_tf_broadcaster build --build-base /home/bao/my_tf_broadcaster/build/my_tf_broadcaster/build install --record /home/bao/my_tf_broadcaster/build/my_tf_broadcaster/install.log --single-version-externally-managed install_data
